@@ -1,5 +1,7 @@
 ## Olá 👋 ! Eu sou o Carlos Augusto Roque </br>
-   Moro em Ribeirão Pires, São Paulo - Brasil 🇧🇷 </br>
+##
+   Moro em Ribeirão Pires, São Paulo - Brasil 🇧🇷 
+   ##
    Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição SENAI.
  <div>
   <a href="https://github.com/Carlos-Augusto-Roque">
