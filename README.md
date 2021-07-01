@@ -1,7 +1,7 @@
 ## Olá 👋 ! Eu sou o Carlos Augusto Roque </br>
    Moro em Ribeirão Pires, São Paulo - Brasil 🇧🇷 
-   
-# Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição SENAI.
+#
+   Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição SENAI.
  <div>
   <a href="https://github.com/Carlos-Augusto-Roque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Augusto-Roque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
