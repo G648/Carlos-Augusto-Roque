@@ -1,7 +1,5 @@
 ## Olá 👋 ! Eu sou o Carlos Augusto Roque </br>
 
-Sou formado no curso técnico em Desenvolvimento de sistemas pelo SENAI </br>
-Estou cursando o tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Mauá. 
 #   
  <div>
   <a href="https://github.com/Carlos-Augusto-Roque">
