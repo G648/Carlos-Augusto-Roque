@@ -5,7 +5,7 @@ Como docente atuei no curso Técnico em Desenvolvimento de Sistemas no 3ºPerío
 
 Atuei também como desenvolvedor Backend com as linguagens Python e Java
 
-Meu Hobby é praticar corrida de rua e conhecer novos lugares.
+Meu hobby é praticar corrida de rua e fazer churrasco.
 #   
  <div>
   <a href="https://github.com/Carlos-Augusto-Roque">
