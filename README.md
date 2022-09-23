@@ -37,6 +37,8 @@
 </div>
 
   <a href="https://www.linkedin.com/in/carlos-augusto-roque-2b1143165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img width="10%" height="10%"  src="https://www.creasp.org.br/wp-content/themes/tema-creasp2021/imgs/logocreasp.png"/>
+  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
