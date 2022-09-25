@@ -1,7 +1,7 @@
 ## Olá 👋 ! Eu sou o Carlos Augusto Roque </br>
 Sou Instrutor de Formação Profissional II no Senai de informática (Senai "Paulo Antônio Skaf")
 
-Como docente atuei no curso Técnico em Desenvolvimento de Sistemas no 3ºPeríodo - Projetos Integrados
+Como instrutor atuei no curso Técnico em Desenvolvimento de Sistemas no 3ºPeríodo - Projetos Integrados
 
 Atuei também como desenvolvedor Backend com as linguagens Python e Java
 
