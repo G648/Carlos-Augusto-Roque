@@ -1,16 +1,19 @@
 ## Olá 👋 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
-Eu sou o Carlos Augusto Roque </br>
+<div>
+ 
+ Meu nome é Carlos, sou Instrutor de Formação Profissional II na Escola Senai de informática.
 
-Sou Instrutor de Formação Profissional II no Senai de informática (Senai "Paulo Antônio Skaf").
+ Como instrutor atuei no curso Técnico em Desenvolvimento de Sistemas no 3º Período - Projetos Integrados.
 
-Como instrutor atuei no curso Técnico em Desenvolvimento de Sistemas no 3º Período - Projetos Integrados.
+ Atuei também como desenvolvedor Backend com as linguagens Python e Java.
 
-Atuei também como desenvolvedor Backend com as linguagens Python e Java.
+ Meus hobbies é praticar corrida de rua🏃 e fazer churrasco🍖.
 
-Meus hobbies é praticar corrida de rua🏃 e fazer churrasco🍖.
+</div>
+
 #   
  <div>
   <a href="https://github.com/Carlos-Augusto-Roque">
