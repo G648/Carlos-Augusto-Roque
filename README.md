@@ -48,7 +48,7 @@ Meus hobbies é praticar corrida de rua🏃 e fazer churrasco🍖.
  
   <div>
    <h2>🌐 Contato 🌐</h2>   
-  <a href="#" alt="Gmail">
+  <a href="mailto:roqueaugustocarlos@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:roqueaugustocarlos@gmail.com" />
    </a>
 
