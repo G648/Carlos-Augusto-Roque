@@ -14,7 +14,7 @@
 
 </div>
 
-#   
+## ⭐ Informações sobre minha conta GitHub   
  <div>
   <a href="https://github.com/Carlos-Augusto-Roque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Augusto-Roque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
