@@ -1,7 +1,6 @@
-<img align="center" alt="Csharp" src="https://cdn.pixabay.com/photo/2018/04/30/19/06/welcome-3363654_960_720.jpg">
+## Olá 👋 
 
-
-## Olá 👋 !
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 Eu sou o Carlos Augusto Roque </br>
 
@@ -48,10 +47,14 @@ Meus hobbies é praticar corrida de rua🏃 e fazer churrasco🍖.
 </div>
  
   <div>
-   <h2>🌐 Redes Sociais 🌐</h2>
-  <a href="https://www.linkedin.com/in/carlos-augusto-roque-2b1143165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
- </div>
- 
+   <h2>🌐 Contato 🌐</h2>   
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:roqueaugustocarlos@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roquecarlos/" /></a> 
+  
+ </div> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
