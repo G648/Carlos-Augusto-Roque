@@ -10,7 +10,7 @@
 
  Atuei também como desenvolvedor Backend com as linguagens Python e Java.
 
- Meus hobbies é praticar corrida de rua🏃 e fazer churrasco🍖.
+ Meu hobby é praticar corrida de rua🏃.
 
 </div>
 
