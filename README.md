@@ -6,7 +6,7 @@
  
  Meu nome é Carlos, sou Instrutor de Formação Profissional II na Escola Senai de informática. 
 
- Como instrutor atuei no curso Técnico em Desenvolvimento de Sistemas no 3º Período - Projetos Integrados.
+ Como instrutor atuei no curso Técnico em Desenvolvimento de Sistemas e agora no CTM.
 
  Atuei também como desenvolvedor Backend com as linguagens Python e Java.
 
