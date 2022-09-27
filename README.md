@@ -4,7 +4,7 @@
 
 <div>
  
- Meu nome é Carlos, sou Instrutor de Formação Profissional II na Escola Senai de informática.
+ Meu nome é Carlos, sou Instrutor de Formação Profissional II na Escola Senai de informática. 
 
  Como instrutor atuei no curso Técnico em Desenvolvimento de Sistemas no 3º Período - Projetos Integrados.
 
