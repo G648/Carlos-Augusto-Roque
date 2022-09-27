@@ -38,10 +38,10 @@
 
 
 <div>
-  <h2>🎓 Formação Acadêmica 🎓</h2>
- 💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
+  <h2>🎓 Formação Acadêmica 🎓</h2> 
  ⚙️ Bacharel em Engenharia de Produção Mecânica - Universidade do Grande ABC <br>
  ⚙️ Pós Graduação em Gestão Empresarial - Universidade Metodista de São Paulo <br>
+ 💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
 </div>
 
 <div>
