@@ -63,7 +63,7 @@
  </div> 
  
  <div>
-   <h2>📜 Artigos publicados📜</h2>   
+   <h2>📜 Artigos Publicados📜</h2>   
    <a href="https://carlos-augusto-roque.medium.com/clonagem-de-reposit%C3%B3rio-no-github-como-clonar-apenas-uma-pasta-ou-um-arquivo-de-um-reposit%C3%B3rio-9baaad5ea3d8"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/><a/>
  </div>
  
