@@ -49,9 +49,15 @@
  <a href="https://www.credly.com/earner/earned/badge/433afd35-2cd1-43b6-9044-c14db1795207">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
  </a>
+ <a href="https://www.credly.com/earner/earned/badge/433afd35-2cd1-43b6-9044-c14db1795207">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
+ </a>
+<a href="https://www.credly.com/earner/earned/badge/df0b85cf-8dc4-4354-92f3-1034b93fd4cd">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+ </a>
+ <a href="https://www.credly.com/earner/earned/badge/de7d0d63-7d2e-448d-ba2a-a7a6fe6e9dad">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
+ </a>
 </div>
  
   <div>
