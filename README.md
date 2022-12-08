@@ -58,6 +58,9 @@
  <a href="https://www.credly.com/earner/earned/badge/de7d0d63-7d2e-448d-ba2a-a7a6fe6e9dad">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
  </a>
+ <a href="https://www.credly.com/earner/earned/badge/3ecf74e1-3633-43d6-add2-6a0e5c00be26">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
+ </a>
 </div>
  
   <div>
