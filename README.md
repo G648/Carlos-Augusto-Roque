@@ -6,11 +6,11 @@
  
  Meu nome é Carlos, sou Instrutor de Formação Profissional II na Escola Senai de informática. 
 
- Como instrutor atuei no curso Técnico em Desenvolvimento de Sistemas e agora no CTM.
+ Como instrutor atuei no curso Técnico em Desenvolvimento de Sistemas e no CTM.
 
  Atuei também como desenvolvedor Backend com as linguagens Python e Java.
 
- Meu hobby é praticar corrida de rua🏃.
+ Meus hobbies são corrida de rua🏃 e ciclismo🚵‍♂️.
 
 </div>
 
